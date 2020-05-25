@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 Hi,
-&nbsp;
 <br/><br/>
 
 My name is Seamus Walker.
