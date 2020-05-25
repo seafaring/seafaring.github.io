@@ -5,15 +5,13 @@ permalink: /about/
 ---
 
 Hi,
-<br/><br/>
-
+<br/><br/><br/>
 My name is Seamus Walker.
 
 I'm an astrophysics and computer engineering double major.
 
 My goal in life is to learn more about the world and help others with science.  
-<br/><br/>
-
+<br/><br/><br/>
 Feel free to contact me below.
 
 ### Contact me
