@@ -14,5 +14,5 @@ My goal in life is to learn more about the world and help others with science.
 
 ### Contact me
 Feel free to contact me below
-<br/>
+<br/><br/>
 [sw@seamuswalker.com](mailto:sw@seamuswalker.com)
