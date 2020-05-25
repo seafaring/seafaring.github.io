@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi,
-<br/><br/><br/>
+<br/><br/>
 My name is Seamus Walker.
 <br/>
 I'm an astrophysics and computer engineering double major.
