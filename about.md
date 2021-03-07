@@ -8,7 +8,7 @@ Hi,
 <br/><br/>
 My name is Seamus Walker.
 <br/>
-I'm an astrophysics and computer engineering double major.
+I'm a physics major at the University of Central Florida.
 <br/><br/>
 My goal in life is to learn more about the world and help others with science.  
 <br/><br/><br/>
