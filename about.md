@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi,
+Hi.
 <br/><br/>
 My name is Seamus Walker.
 <br/>
